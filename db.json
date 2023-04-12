@@ -1,0 +1,44 @@
+{
+  "user": [
+    {
+      "name": "Rent",
+      "amount": "4000",
+      "id": 1
+    },
+    {
+      "name": "Electricity",
+      "amount": "1000",
+      "id": 2
+    },
+    {
+      "name": "Water",
+      "amount": "500",
+      "id": 3
+    },
+    {
+      "name": "Milk",
+      "amount": "50",
+      "id": 4
+    },
+    {
+      "name": "Food",
+      "amount": "300",
+      "id": 5
+    },
+    {
+      "name": "Travel",
+      "amount": "2000",
+      "id": 6
+    },
+    {
+      "name": "Shoppng",
+      "amount": "1000",
+      "id": 7
+    },
+    {
+      "name": "gjrhur",
+      "amount": "300",
+      "id": 8
+    }
+  ]
+}
